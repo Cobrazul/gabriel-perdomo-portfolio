@@ -86,6 +86,7 @@ const experiences = [
     company: "Gesdatta, San Pedro, Buenos Aires",
     bullets: [
       "Trabajé en desarrollo y mantenimiento de sistemas web de gestión y soluciones a medida.",
+      "Trabajé en módulos y desarrollos para clientes como Magnifresh, TomJug y clientes del Mercado Central, entre otros.",
       "Participé en la evolución de sistemas existentes con HTML, JavaScript, CakePHP y MySQL.",
       "Realicé tareas vinculadas a bases de datos, consultas, lógica de negocio, soporte y ajustes de interfaz."
     ],
